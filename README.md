@@ -10,4 +10,8 @@ This project demonstrates the happy path flow for on-running.com site.
 * Select the " Cloud Collection"
 * Ensure that the 86 Shoes are loaded and the title is correctly shown
 * Select shoe, its size, add to cart
-* Delete the selected item from the cart.
+* Select Checkout button
+* Navigate to Shipping page, Click on Show Shipping Options button
+* Select Continue to Payment button
+* check on Pay later, button: Pay later
+* Test code ends at Navigated to Complete your purchase page.
